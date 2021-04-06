@@ -19,6 +19,24 @@ Possibilitées:
 
  - Il vous manque des bliblihotèques, il vous suffit de les installer.
 
+   cv2 : 
+   pip3 install opencv-python
+   
+   mediapipe:
+   pip3 install mediapipe
+   
+   pyautogui:
+   pip3 install pyautogui
+   
+   keyboard:
+   pip3 install keyboard
+   
+   win32api:
+   pip3 install pywin32
+   
+   pygame:
+   pip3 install pygame
+   
  - Le programme ce lance sur une webcam non voulue ou vous voulez passer sur une autres webcam. Il vous suffit de modifier dans le programme la ligne :
 
 ![image](https://user-images.githubusercontent.com/72353621/113747781-06876080-9708-11eb-99aa-bb27e809c813.png)
